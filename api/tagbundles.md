@@ -10,11 +10,11 @@ Tag Bundle is a collection of tags. Use Tag Bundle to filter links by a set of t
 
 ## `/v1/tags/bundles/all?`
 
-Retrieve all of a user’s bundles.
+Retrieve all of a particular user’s bundles.
 
 ### Arguments
 
-- `&bundle={NAME}` (optional) — Fetch just the named bundle.
+- `&bundle={NAME}` (optional) — Just fetch the named bundle.
 
 ### Example response
 
